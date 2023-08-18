@@ -7,19 +7,7 @@
 # Description
 Exploratory Data Analysis (EDA) is one of the techniques used for extracting vital features and trends used by machine learning and deep learning models in Data Science
 
-# Features
-#
-# Screenshots
- <img src="#"> <img src="#"> <img src="#"> <img src="#"> <img src="#">
-# Tech Used
- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-      
-# Add More Details:
-Anything else that you want to add for users? You can write it here in markdown and see preview in real time. You can add anything that you want, for example
 
-### You can add How to Setup:
-- Step 1: this is step 1
-- Step 2: do this, do that
 
 ### You can add API references
 | Syntax | Description |
@@ -28,7 +16,7 @@ Anything else that you want to add for users? You can write it here in markdown 
 | AndroidX Test | Includes APIs for testing your Android app, including Espresso, JUnit Runner, JUnit4 rules, and UI Automator. |
 
 ### You can add 
-[Links](https://itsvg.in)
+[[Links](https://itsvg.in)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ftanay-toshniwal%2Fmy-100-days-of-ml-code-journey-5b39692501c8&psig=AOvVaw2lYO-MtdGTXAK3I5YKTJCd&ust=1692431483957000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNj-0M_c5YADFQAAAAAdAAAAABAI)https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ftanay-toshniwal%2Fmy-100-days-of-ml-code-journey-5b39692501c8&psig=AOvVaw2lYO-MtdGTXAK3I5YKTJCd&ust=1692431483957000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNj-0M_c5YADFQAAAAAdAAAAABAI
  
 ![](https://img.shields.io/badge/IMAGES-4298B8.svg?style=for-the-badge&logoColor=white)
 # If you don't want to add this section, just clear all the text written here.
